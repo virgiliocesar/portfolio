@@ -6,7 +6,7 @@ const Sobremim = () => {
         <div className="dados-perfil">
           <img
             className="img-sobremim"
-            src="../src/assets/img/virgilio.webp"
+            src="https://i.pinimg.com/474x/89/34/f4/8934f4f60d9d0a0b140d9982f326f77b.jpg"
             alt="Foto de perfil"
           />
             <h1>Virgílio César</h1>

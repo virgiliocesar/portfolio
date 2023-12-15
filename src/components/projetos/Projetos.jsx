@@ -3,26 +3,30 @@ const Projetos = () => {
   const proj = [
     {
       id: 1,
-      imagem: "../src/assets/img/mentor_class.webp",
+      imagem:
+        "https://i.pinimg.com/736x/72/0b/d6/720bd6b3460dd69e2650f1ccaaffb91f.jpg",
       link: "https://projeto-de-conclusao-do-modulo-1-avaliacao.vercel.app/html/mentores/mentores.html",
       text: "Mentor Class, uma area de gestão de alunos e professores e turmas para ensino, possui registro de email alunos e professores.",
     },
     {
       id: 2,
-      imagem: "../src/assets/img/codai.webp",
+      imagem:
+        "https://i.pinimg.com/736x/ed/3a/3a/ed3a3a925bd3c48b84736a9c14a2608c.jpg",
       link: "https://enjels.github.io/codai-2.0/",
       text: "Projeto Codai -2.0 Nikel, é uma carteira digital,que registra a entra e saída do saldo da conta, detalhes descrição da transação e data do processo tudo isso sendo salvo no Histórico, possui cadastro e login, usa local storage para salvar os dados.",
     },
     {
       id: 3,
-      imagem: "../src/assets/img/coffe.webp",
+      imagem:
+        "https://i.pinimg.com/736x/db/c1/31/dbc1318f799988e3d8839231b2e5e92f.jpg",
       link: "https://enjels.github.io/Coffee-Shop/",
       text: "Coffe-shop criado apartir de uma referência do youtube CANAL: Danilo paixão.",
     },
 
     {
       id: 4,
-      imagem: "../src/assets/img/doritos.webp",
+      imagem:
+        "https://i.pinimg.com/736x/06/2f/4f/062f4faf36c1c730e8037cbd77b87000.jpg",
       link: "https://enjels.github.io/Doritos/",
       text: "Site de doritos um dos primeiros projetos criado quando n tinha conhecimento em programação para usar ele como medida de evolução OBS: embreve uma nova versão melhorada.",
     },
@@ -34,8 +38,8 @@ const Projetos = () => {
     },
     {
       id: 6,
-      imagem: "../src/assets/img/pj2.webp",
-      link: "https://enjels.github.io/projeto-2/",
+      imagem: "",
+      link: "",
       text: "Landing page, projeto criado apartir do curso da rocketseat, objetivo aplicar e consolidar conhecimento basicas estudads do html e css.",
     },
     {
@@ -46,15 +50,16 @@ const Projetos = () => {
     },
     {
       id: 8,
-      imagem: "../src/assets/img/login cat.webp",
+      imagem:
+        "https://i.pinimg.com/736x/52/46/6a/52466a0804d28db6eafba09fdc3db356.jpg",
       link: "https://enjels.github.io/login-cat/",
       text: "Projeto login-cat criado apartir de uma referência do youtube CANAL: Markzuel.",
     },
 
     {
       id: 9,
-      imagem: "../src/assets/img/pj4.webp",
-      link: "https://enjels.github.io/projeto-4/",
+      imagem: "",
+      link: "",
       text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, cse officiis odit harum qui ea, natus dolores.",
     },
     {
@@ -65,13 +70,14 @@ const Projetos = () => {
     },
     {
       id: 11,
-      imagem: "../src/assets/img/pj1.webp",
-      link: "https://enjels.github.io/projeto-1/",
+      imagem:"https://i.pinimg.com/736x/40/dc/08/40dc08ab9b1978363efd27aded942052.jpg",
+      link: "https://enjels.github.io/ambientes-unico/",
       text: "ambiente unico.",
     },
     {
       id: 11,
-      imagem:"https://www.ccj.ufpb.br/dcx/contents/imagens/figuras/output_zvmmKf.gif/@@images/image.gif",
+      imagem:
+        "https://www.ccj.ufpb.br/dcx/contents/imagens/figuras/output_zvmmKf.gif/@@images/image.gif",
       link: "#",
       text: "",
     },
