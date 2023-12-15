@@ -9,31 +9,34 @@ const Sobremim = () => {
             src="https://i.pinimg.com/474x/89/34/f4/8934f4f60d9d0a0b140d9982f326f77b.jpg"
             alt="Foto de perfil"
           />
-            <h1>Virgílio César</h1>
-            <div className="Redes-sociais">
-              <a href="#" target="blank">
-                <img
-                  className="img-social"
-                  src="..\src\assets\img\dowload.png"
-                  alt="Currículo"
-                />
-              </a>
-              <a href="https://github.com/enjels" target="blank">
-                <img src="..\src\assets\GitHub.svg" alt="GitHub" />
-              </a>
-              <a
-                href="https://www.linkedin.com/in/virg%C3%ADlio-c%C3%A9sar/"
-                target="blank"
-              >
-                <img src="..\src\assets\LinkedIn.svg" alt="Linkedin" />
-              </a>
-            </div>
-            <p>
-              <strong>
-                E-mail:
-              </strong> virgilio_cesar.dev@outlook.com
-            </p>
-
+          <h1>Virgílio César</h1>
+          <div className="Redes-sociais">
+            <a href="#" target="blank">
+              <img
+                className="img-social"
+                src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Downloads-icon.png"
+                alt="Currículo"
+              />
+            </a>
+            <a href="https://github.com/enjels" target="blank">
+              <img
+                src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png"
+                alt="GitHub"
+              />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/virg%C3%ADlio-c%C3%A9sar/"
+              target="blank"
+            >
+              <img
+                src="https://icons.iconarchive.com/icons/martz90/circle/512/linkedin-icon.png"
+                alt="Linkedin"
+              />
+            </a>
+          </div>
+          <p>
+            <strong>E-mail:</strong> virgilio_cesar.dev@outlook.com
+          </p>
         </div>
         <div className="sobremim">
           <h2>
