@@ -32,20 +32,23 @@ const Projetos = () => {
     },
     {
       id: 5,
-      imagem: "../src/assets/img/relojo.webp",
+      imagem:
+        "https://i.pinimg.com/736x/95/4c/ee/954cee887f7a77d58e0c5bb62e5fa7d4.jpg",
       link: "https://enjels.github.io/relogio-digital/",
-      text: "Lorem ipsum dolor sit amet consectetur adipisiciem voluptas r.",
+      text: "Relógio digital criado apartir de uma referencia no youtube.",
     },
     {
       id: 6,
-      imagem: "",
-      link: "",
+      imagem:
+        "https://i.pinimg.com/736x/1a/b4/ef/1ab4ef8a882dd49b5bb73788a196aaaf.jpg",
+      link: "https://enjels.github.io/lading-page-treino-exclusivo",
       text: "Landing page, projeto criado apartir do curso da rocketseat, objetivo aplicar e consolidar conhecimento basicas estudads do html e css.",
     },
     {
       id: 7,
-      imagem: "../src/assets/img/pj3.webp",
-      link: "https://enjels.github.io/projeto-3/",
+      imagem:
+        "https://i.pinimg.com/736x/98/14/47/98144718b992bf509f3864aace65fc30.jpg",
+      link: "https://enjels.github.io/formulario-Informacoes",
       text: "Formulário projeto criado apartir do curso da rocketseat, objetivo aplicar e consolidar conhecimento em criação de formularios.",
     },
     {
@@ -58,19 +61,22 @@ const Projetos = () => {
 
     {
       id: 9,
-      imagem: "",
-      link: "",
-      text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, cse officiis odit harum qui ea, natus dolores.",
+      imagem:
+        "https://i.pinimg.com/736x/5c/87/73/5c877305897cc5f45b1edfe6b866d961.jpg",
+      link: "https://enjels.github.io/responsivo-desktop-Mobile/",
+      text: "Responsivo desktop Mobile.",
     },
     {
       id: 10,
-      imagem: "../src/assets/img/pj5.webp",
-      link: "https://enjels.github.io/projeto-5/",
-      text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, comendis es qui ea, natus dolores.",
+      imagem:
+        "https://i.pinimg.com/736x/c3/cd/3c/c3cd3c6dcda70b8671fb43bce8484916.jpg",
+      link: "https://enjels.github.io/z-index-zoom/",
+      text: "z-index-zoom.",
     },
     {
       id: 11,
-      imagem:"https://i.pinimg.com/736x/40/dc/08/40dc08ab9b1978363efd27aded942052.jpg",
+      imagem:
+        "https://i.pinimg.com/736x/40/dc/08/40dc08ab9b1978363efd27aded942052.jpg",
       link: "https://enjels.github.io/ambientes-unico/",
       text: "ambiente unico.",
     },
