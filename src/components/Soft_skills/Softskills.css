@@ -1,14 +1,11 @@
-#hard-skills h1{
+
+#Softs-kills h1 {
     padding-top: 50px;
     text-align: center;
-    
 }
-.ul-skills{
+.container-ul{
     padding-top: 50px;
     display: flex;
     justify-content: center;
     gap: 2%;
-    list-style: none;
-
-    
 }

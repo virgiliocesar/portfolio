@@ -1,7 +1,6 @@
 import "./Sobremim.css";
 const Sobremim = () => {
   return (
-    <>
       <section id="section-sobremim">
         <div className="dados-perfil">
           <img
@@ -54,9 +53,6 @@ const Sobremim = () => {
           </p>
         </div>
       </section>
-
-      <hr />
-    </>
   );
 };
 
