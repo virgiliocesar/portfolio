@@ -20,7 +20,7 @@ const Sobremim = () => {
             </a>
             <a href="https://github.com/enjels" target="blank">
               <img
-                src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png"
+                src="https://cdn-icons-png.flaticon.com/512/12868/12868746.png"
                 alt="GitHub"
               />
             </a>
