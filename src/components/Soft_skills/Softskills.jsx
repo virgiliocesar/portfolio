@@ -3,9 +3,9 @@ import "./Softskills.css";
 const Softskills = () => {
   return (
     <section id="section-soft-skills">
-      <h1>Softskills</h1>
-      <div className="container-soft-skills">
-        <ul className="ul-soft-skills">
+      <h1>Soft skills</h1>
+      <div>
+        <ul className="ul-soft-skills ">
           <div>
             <li>autodidatismo</li>
             <li>resiliência</li>
@@ -14,6 +14,7 @@ const Softskills = () => {
             <li>criatividade</li>
             <li>conhecimento de design</li>
           </div>
+
           <div>
             <li>boa comunicação</li>
             <li>flexibilidade</li>

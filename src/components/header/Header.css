@@ -1,13 +1,26 @@
-#header{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 0 10%;
+#header {
+    position: fixed;
+    /* left: 50%;
+    transform: translate(-50%, 0); */
+    text-decoration: none;
+    font-size: 20px;
 }
+
 #header ul{
     display: flex;
     list-style: none;
 }
-#header li{
+#header li a{
     margin-left: 10px;
+    text-decoration: none;
+    
+}
+#header li a:link{
+    color: rgb(255, 255, 255);
+    
+
+}
+#header li a:hover {
+    font-weight: bold;
+    border-bottom: solid 1px cyan;
 }

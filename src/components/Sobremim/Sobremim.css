@@ -1,34 +1,40 @@
-#section-sobremim{
+.section-sobremim{
     padding-top: 50px;
     display: flex;
-    justify-content: space-evenly;
-
+    justify-content: center;
 
 }
 .sobremim{
-    /* padding: 4% 0; */
-    max-width: 50%;
-    gap: 5%;
+    max-width: 60%;
 }
 
-.dados-perfil{
-text-align: center;
-}
+
  .img-sobremim{
     width: 200px;
     height: 200px;
     object-fit: cover;
     border-radius: 100%;
 }
+.dados-perfil {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+    justify-content: space-evenly;
+}
 
-/* Social */
+/* Social  linkedin github cv*/
 .Redes-sociais{
     margin-top: 20px;
     display: flex;
-    justify-content: center;
+    justify-content: cent;
 }
 .Redes-sociais img{
     width: 50px !important;
     height: 50px !important;
-    margin-right: 10px;
+}
+.test{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
 }
