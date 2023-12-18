@@ -1,11 +1,16 @@
-
-#Softs-kills h1 {
-    padding-top: 50px;
-    text-align: center;
+#section-soft-skills ul li {
+    margin: 20px;
 }
-.container-ul{
-    padding-top: 50px;
-    display: flex;
+
+#section-soft-skills h1 {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.ul-soft-skills {
     justify-content: center;
-    gap: 2%;
+    display: flex;
+    flex-wrap: wrap;
+
 }

@@ -10,9 +10,9 @@ const Container = () => {
       <div id="main-container">
         <Header />
         <Sobremim />
-        <Projetos />
         <Hardskills />
         <Softskills />
+        <Projetos />
       </div>
     );
     

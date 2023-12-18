@@ -2,20 +2,26 @@ import "./Softskills.css";
 
 const Softskills = () => {
   return (
-    <section id="Softs-kills">
+    <section id="section-soft-skills">
       <h1>Softskills</h1>
-      <div className="container-ul">
-        <ul>
-          <li>autodidatismo</li>
-          <li>resiliência</li>
-          <li>criatividade</li>
-          <li>conhecimento de design</li>
-        </ul>
-        <ul>
-          <li>boa comunicação</li>
-          <li>flexibilidade</li>
-          <li>trabalhar sob pressão</li>
-          <li>pensamento crítico</li>
+      <div className="container-soft-skills">
+        <ul className="ul-soft-skills">
+          <div>
+            <li>autodidatismo</li>
+            <li>resiliência</li>
+          </div>
+          <div>
+            <li>criatividade</li>
+            <li>conhecimento de design</li>
+          </div>
+          <div>
+            <li>boa comunicação</li>
+            <li>flexibilidade</li>
+          </div>
+          <div>
+            <li>trabalhar sob pressão</li>
+            <li>pensamento crítico</li>
+          </div>
         </ul>
       </div>
     </section>
