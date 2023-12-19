@@ -36,7 +36,10 @@ const Sobremim = () => {
                 <p>linkedin</p>
               </div>
               <div className="test">
-                <a href="#" target="blank">
+                <a
+                  href="https://public.bn.files.1drv.com/y4mXZNYo9u1bYKcU8xW1A0VFtilDjY66MNCXByyYKwRzLkPefChLDbRVFNv-nnJGL9tqo0yv08a0pBFY1LDfCryAGySokECwfKqmdONfJx41Leb601QLafS5I4uV22vZwof8zAxEANFbP1pobVBj26zjYdxR8YtIqpVZyhjQVcxHWu8KezZmFXYL16LYssv2jnBAg80GsSjderJBdotgIgt9EQcw7vNyO08QUy5EPXeb14?AVOverride=1"
+                  
+                >
                   <img
                     className="img-social"
                     src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Downloads-icon.png"
