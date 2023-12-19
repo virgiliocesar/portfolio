@@ -13,7 +13,7 @@
 #header li a{
     margin-left: 10px;
     text-decoration: none;
-    
+    transition: transform 0.5;
 }
 #header li a:link{
     color: rgb(255, 255, 255);
@@ -23,6 +23,7 @@
 #header li a:hover {
     font-weight: bold;
     border-bottom: solid 1px cyan;
+    transform: scale(1.5);
 }
 #header li a:visited {
     

@@ -23,3 +23,16 @@
     outline-offset: -3px;
     filter: brightness(75%)
 }
+.a-pj:link {
+    color: aqua;
+    text-decoration: none;
+
+}
+.a-pj:visited{
+    color: aqua;
+
+}
+
+.a-pj:hover{
+    color: rgb(81, 255, 0);
+}
