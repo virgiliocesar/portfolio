@@ -13,7 +13,7 @@ const Projetos = () => {
       id: 2,
       imagem:
         "https://i.pinimg.com/736x/f4/3c/ba/f43cba6b9d53721ae24bb6bcea82495c.jpg",
-      link: "https://multstep-form-react.vercel.app/",
+      link: "https://imc-calc-murex.vercel.app/",
       codigo: "https://github.com/enjels/multstep_form_react",
       text: "Calculadora de IMC, criada em react com json server",
     },
