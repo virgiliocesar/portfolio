@@ -36,7 +36,7 @@ const Sobremim = () => {
                 <p>linkedin</p>
               </div>
               <div className="social-box">
-                <a href="https://jvwxtg.dm.files.1drv.com/y4mxSXMSXxOBOJ8zXERyTVo0rxWMFr_pgJCfM6GhxL4tqwnP_bL0eD4SnFi8oAKmiJ06seD9lqIATjunnB8FVHk6oXzKn5zpXGO2URyDdNpb0IqDW53I0sri2Fi36gHdR7Vh1BM4GV4IEln9nSqi_CPNTqmsJWA_qnNAyb7aKsMh5o?AVOverride=1">
+                <a href="https://ltxcbw.dm.files.1drv.com/y4mTqXstzdvfyPN06o5J0O2uFmo3tpvjzDvy3DBZzeAhHiK0nSYD26PwUDZBPp5JTbUFlCwDDzqZwrr9Ot4u95YgPiZf086QlhPop_4pUj8gTpsjNTgtythCVgq8qyS67RhKHo6zqGYwGOZIg_TZ0RfunMZQ71QyltS8TMTXQ7YvQ4?AVOverride=1">
                   <img
                     className="img-social"
                     src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Downloads-icon.png"
