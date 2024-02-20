@@ -14,7 +14,7 @@ const Sobremim = () => {
           <div>
             <h1>Virgílio César</h1>
             <div className="Redes-sociais">
-              <div className="test">
+              <div className="social-box">
                 <a href="https://github.com/enjels" target="blank">
                   <img
                     src="https://cdn-icons-png.flaticon.com/512/12868/12868746.png"
@@ -23,7 +23,7 @@ const Sobremim = () => {
                 </a>
                 <p>GitHub</p>
               </div>
-              <div className="test">
+              <div className="social-box">
                 <a
                   href="https://www.linkedin.com/in/virg%C3%ADlio-c%C3%A9sar/"
                   target="blank"
@@ -35,11 +35,8 @@ const Sobremim = () => {
                 </a>
                 <p>linkedin</p>
               </div>
-              <div className="test">
-                <a
-                  href="https://public.bn.files.1drv.com/y4mXZNYo9u1bYKcU8xW1A0VFtilDjY66MNCXByyYKwRzLkPefChLDbRVFNv-nnJGL9tqo0yv08a0pBFY1LDfCryAGySokECwfKqmdONfJx41Leb601QLafS5I4uV22vZwof8zAxEANFbP1pobVBj26zjYdxR8YtIqpVZyhjQVcxHWu8KezZmFXYL16LYssv2jnBAg80GsSjderJBdotgIgt9EQcw7vNyO08QUy5EPXeb14?AVOverride=1"
-                  
-                >
+              <div className="social-box">
+                <a href="https://jvwxtg.dm.files.1drv.com/y4mxSXMSXxOBOJ8zXERyTVo0rxWMFr_pgJCfM6GhxL4tqwnP_bL0eD4SnFi8oAKmiJ06seD9lqIATjunnB8FVHk6oXzKn5zpXGO2URyDdNpb0IqDW53I0sri2Fi36gHdR7Vh1BM4GV4IEln9nSqi_CPNTqmsJWA_qnNAyb7aKsMh5o?AVOverride=1">
                   <img
                     className="img-social"
                     src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Downloads-icon.png"

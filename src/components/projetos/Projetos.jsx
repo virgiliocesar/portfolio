@@ -21,7 +21,7 @@ const Projetos = () => {
       id: 3,
       imagem:
         "https://i.pinimg.com/736x/72/0b/d6/720bd6b3460dd69e2650f1ccaaffb91f.jpg",
-      link: "https://projeto-de-conclusao-do-modulo-1-avaliacao.vercel.app/html/mentores/mentores.html",
+      link: "https://mentorclass.vercel.app/",
       codigo:
         "https://github.com/enjels/projeto-de-conclusao-do-modulo-1-avaliacao",
       text: "Mentor Class, uma area de gestão de alunos e professores e turmas para ensino, possui registro de email alunos e professores, Desenvovido com HTML, CSS e javaScript.",

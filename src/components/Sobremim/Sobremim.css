@@ -33,8 +33,11 @@
     width: 50px !important;
     height: 50px !important;
 }
-.test{
+.social-box{
     display: flex;
     align-items: center;
     margin-right: 20px;
+}
+.social-box img{
+    margin-right: 10px;
 }
