@@ -2,8 +2,9 @@ import "./Container.css"
 import Header from "../header/Header";
 import Sobremim from "../Sobremim/Sobremim";
 import Projetos from "../projetos/Projetos";
-import Hardskills from "../hard_skills/hardskills";
+
 import Softskills from "../Soft_skills/Softskills";
+import Hardskills from "../hard_skills/Hardskills";
 
 const Container = () => {
     return (
