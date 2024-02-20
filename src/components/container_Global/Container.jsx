@@ -1,4 +1,4 @@
-import "./container.css"
+import "./Container.css"
 import Header from "../header/Header";
 import Sobremim from "../Sobremim/Sobremim";
 import Projetos from "../projetos/Projetos";
