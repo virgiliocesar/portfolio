@@ -40,6 +40,7 @@ const Sobremim = () => {
                   <img
                     className="img-social"
                     src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Downloads-icon.png"
+                    target="blank"
                     alt="Currículo"
                   />
                 </a>
