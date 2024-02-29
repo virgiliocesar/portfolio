@@ -36,11 +36,13 @@ const Sobremim = () => {
                 <p>linkedin</p>
               </div>
               <div className="social-box">
-                <a href="https://1drv.ms/w/s!AibGyGyszdWpgQ7-q1uCuq17PvdV?e=oOdMGG">
+                <a
+                  href="https://1drv.ms/w/s!AibGyGyszdWpgQ7-q1uCuq17PvdV?e=oOdMGG"
+                  target="blank"
+                >
                   <img
                     className="img-social"
                     src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Downloads-icon.png"
-                    target="blank"
                     alt="Currículo"
                   />
                 </a>
