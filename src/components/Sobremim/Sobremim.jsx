@@ -7,7 +7,7 @@ const Sobremim = () => {
           <div>
             <img
               className="img-sobremim"
-              src="https://i.pinimg.com/474x/89/34/f4/8934f4f60d9d0a0b140d9982f326f77b.jpg"
+              src="https://i.pinimg.com/474x/d5/52/0e/d5520ef4a2f939fabeaff233b18fe007.jpg"
               alt="Foto de perfil"
             />
           </div>
