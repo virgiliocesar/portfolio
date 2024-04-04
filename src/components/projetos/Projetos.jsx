@@ -15,7 +15,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/b4/08/6f/b4086f75d9120567be99b0e1c1e7da26.jpg",
       link: "https://countdown-bice-six.vercel.app/",
       codigo: "https://github.com/enjels/countdown",
-      text: "Countdown: Utilizado React, React-router-dom, context API, hooks e Vite. Um contador regrecivo para datas.",
+      text: "Countdown: Utilizado React, React-router-dom, context API, hooks e Vite. Um contador regressivo para datas.",
     },
     {
       id: 8886693,
