@@ -64,7 +64,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/db/c1/31/dbc1318f799988e3d8839231b2e5e92f.jpg",
       link: "https://enjels.github.io/Coffee-Shop/",
       codigo: "https://github.com/enjels/Coffee-Shop",
-      text: "Coffe-shop criado apartir de uma referência do youtube CANAL: Danilo paixão, Desenvovido com HTML, CSS e javaScript..",
+      text: "Coffe-shop: Utilizado HTML, CSS e javaScript, criado apartir de uma referência do youtube CANAL: Danilo paixão.",
     },
 
     // {
