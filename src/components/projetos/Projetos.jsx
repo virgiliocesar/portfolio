@@ -7,7 +7,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/a7/4d/9d/a74d9debe43cc492ab280b5a99a21e30.jpg",
       link: "https://blog-react-axios.vercel.app/",
       codigo: "https://github.com/enjels/BlogReactAxios",
-      text: "Blog feito em React,React-router-dom, context API,hooks, Vite e Axios, alimentado por uma API externa, API: {JSON} Placeholder, usado CRUD não é possivel fazer modificações, mas cada ação realizada com sucesso usando a dev tools para ver status de cada metodo utilizado.",
+      text: "Blog: Utilizado React, React-router-dom, hooks, Vite e Axios, alimentado por uma API externa, API: {JSON} Placeholder, usado CRUD não é possivel fazer modificações, mas cada ação realizada com sucesso usando a dev tools para ver status de cada metodo utilizado.",
     },
     {
       id: 7758966,
@@ -15,7 +15,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/b4/08/6f/b4086f75d9120567be99b0e1c1e7da26.jpg",
       link: "https://countdown-bice-six.vercel.app/",
       codigo: "https://github.com/enjels/countdown",
-      text: "Countdown feito em React, Vite contdor regrecivo para datas.",
+      text: "Countdown: Utilizado React, React-router-dom, context API, hooks, Vite. Um contador regrecivo para datas.",
     },
     {
       id: 8886693,
@@ -23,7 +23,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/a0/c5/08/a0c508b90be731186214c878b9267eeb.jpg",
       link: "https://quiz-enjels.vercel.app/",
       codigo: "https://github.com/enjels/quiz",
-      text: "Quiz feito em react",
+      text: "Quiz: Utilizado React, React-router-dom, context API, hooks, Vite. Um quiz de palavaras com alternativas apenas uma sera certa.",
     },
     {
       id: 5228237,
@@ -31,7 +31,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/87/97/29/87972930fbe39f177ca7ee78c5d9ae9f.jpg",
       link: "https://multstep-form-react.vercel.app/",
       codigo: "https://github.com/enjels/multstep_form_react",
-      text: "multstep-form-react, é um formulario de avaliação, feito em React com json server",
+      text: "multstep-form-react: Utilizado React,React-router-dom, context API,hooks, Vite é um formulario de avaliação, feito em React com json server",
     },
     {
       id: 7423685,
@@ -39,7 +39,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/f4/3c/ba/f43cba6b9d53721ae24bb6bcea82495c.jpg",
       link: "https://imc-calc-murex.vercel.app/",
       codigo: "https://github.com/enjels/multstep_form_react",
-      text: "Calculadora de IMC, criada em react com json server",
+      text: "Calculadora de IMC: React,React-router-dom, context API,hooks, Vite criada em react com json server",
     },
     {
       id: 5228237,
@@ -48,7 +48,7 @@ const Projetos = () => {
       link: "https://mentorclass.vercel.app/",
       codigo:
         "https://github.com/enjels/projeto-de-conclusao-do-modulo-1-avaliacao",
-      text: "Mentor Class, uma area de gestão de alunos e professores e turmas para ensino, possui registro de email alunos e professores, Desenvovido com HTML, CSS e javaScript.",
+      text: "Mentor Class: React,React-router-dom, context API,hooks, Vite uma area de gestão de alunos e professores e turmas para ensino, possui registro de email alunos e professores, Desenvovido com HTML, CSS e javaScript.",
     },
     {
       id: 9996864,
