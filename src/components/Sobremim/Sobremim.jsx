@@ -15,7 +15,7 @@ const Sobremim = () => {
             <h1>Virgílio César</h1>
             <div className="Redes-sociais">
               <div className="social-box">
-                <a href="https://github.com/enjels" target="blank">
+                <a href="https://github.com/virgiliocesar" target="blank">
                   <img
                     src="https://cdn-icons-png.flaticon.com/512/12868/12868746.png"
                     alt="GitHub"
