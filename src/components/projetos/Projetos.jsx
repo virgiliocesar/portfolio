@@ -15,7 +15,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/b4/08/6f/b4086f75d9120567be99b0e1c1e7da26.jpg",
       link: "https://countdown-bice-six.vercel.app/",
       codigo: "https://github.com/enjels/countdown",
-      text: "Countdown: Utilizado React, React-router-dom, context API, hooks, Vite. Um contador regrecivo para datas.",
+      text: "Countdown: Utilizado React, React-router-dom, context API, hooks e Vite. Um contador regrecivo para datas.",
     },
     {
       id: 8886693,
@@ -23,7 +23,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/a0/c5/08/a0c508b90be731186214c878b9267eeb.jpg",
       link: "https://quiz-enjels.vercel.app/",
       codigo: "https://github.com/enjels/quiz",
-      text: "Quiz: Utilizado React, React-router-dom, context API, hooks, Vite. Um quiz de palavaras com alternativas apenas uma sera certa.",
+      text: "Quiz: Utilizado React, React-router-dom, context API, hooks e Vite. Um quiz de palavaras com alternativas apenas uma sera certa.",
     },
     {
       id: 5228237,
@@ -31,7 +31,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/87/97/29/87972930fbe39f177ca7ee78c5d9ae9f.jpg",
       link: "https://multstep-form-react.vercel.app/",
       codigo: "https://github.com/enjels/multstep_form_react",
-      text: "multstep-form-react: Utilizado React,React-router-dom, context API,hooks, Vite é um formulario de avaliação, feito em React com json server",
+      text: "multstep-form-react: Utilizado React, hooks json-server e Vite é um formulario de avaliação, feito em React com json server",
     },
     {
       id: 7423685,
@@ -67,71 +67,71 @@ const Projetos = () => {
       text: "Coffe-shop criado apartir de uma referência do youtube CANAL: Danilo paixão, Desenvovido com HTML, CSS e javaScript..",
     },
 
-    {
-      id: 6228453,
-      imagem:
-        "https://i.pinimg.com/736x/28/0b/64/280b643cfc46a8501497cb4d6c4b733e.jpg",
-      link: "https://enjels.github.io/Doritos/",
-      codigo: "https://github.com/enjels/Doritos",
-      text: "Site de doritos um dos primeiros projetos criado quando eu não tinha conhecimento em programação para usar ele como medida de evolução, Desenvovido com HTML, CSS e javaScript. OBS: embreve uma nova versão melhorada.",
-    },
-    {
-      id: 9894848,
-      imagem:
-        "https://i.pinimg.com/736x/95/4c/ee/954cee887f7a77d58e0c5bb62e5fa7d4.jpg",
-      link: "https://enjels.github.io/relogio-digital/",
-      codigo: "https://github.com/enjels/relogio-digital",
-      text: "Relógio digital criado apartir de uma referencia no youtube, Desenvovido com HTML, CSS e javaScript..",
-    },
-    {
-      id: 4584947,
-      imagem:
-        "https://i.pinimg.com/736x/1a/b4/ef/1ab4ef8a882dd49b5bb73788a196aaaf.jpg",
-      link: "https://enjels.github.io/lading-page-treino-exclusivo",
-      codigo: "https://github.com/enjels/lading-page-treino-exclusivo",
-      text: "Landing page, projeto criado apartir do curso da rocketseat, objetivo aplicar e consolidar conhecimento basicas estudads do html e css.",
-    },
-    {
-      id: 3484883,
-      imagem:
-        "https://i.pinimg.com/736x/98/14/47/98144718b992bf509f3864aace65fc30.jpg",
-      link: "https://enjels.github.io/formulario-Informacoes",
-      codigo: "https://github.com/enjels/formulario-Informacoes",
-      text: "Formulário projeto criado apartir do curso da rocketseat, objetivo aplicar e consolidar conhecimento em criação de formularios, Desenvovido com HTML, CSS e javaScript..",
-    },
-    {
-      id: 7342723,
-      imagem:
-        "https://i.pinimg.com/736x/52/46/6a/52466a0804d28db6eafba09fdc3db356.jpg",
-      link: "https://enjels.github.io/login-cat/",
-      codigo: "https://github.com/enjels/login-cat",
-      text: "Projeto login-cat criado apartir de uma referência do youtube CANAL: Markzuel, Desenvovido com HTML, CSS e javaScript..",
-    },
+    // {
+    //   id: 6228453,
+    //   imagem:
+    //     "https://i.pinimg.com/736x/28/0b/64/280b643cfc46a8501497cb4d6c4b733e.jpg",
+    //   link: "https://enjels.github.io/Doritos/",
+    //   codigo: "https://github.com/enjels/Doritos",
+    //   text: "Site de doritos um dos primeiros projetos criado quando eu não tinha conhecimento em programação para usar ele como medida de evolução, Desenvovido com HTML, CSS e javaScript. OBS: embreve uma nova versão melhorada.",
+    // },
+    // {
+    //   id: 9894848,
+    //   imagem:
+    //     "https://i.pinimg.com/736x/95/4c/ee/954cee887f7a77d58e0c5bb62e5fa7d4.jpg",
+    //   link: "https://enjels.github.io/relogio-digital/",
+    //   codigo: "https://github.com/enjels/relogio-digital",
+    //   text: "Relógio digital criado apartir de uma referencia no youtube, Desenvovido com HTML, CSS e javaScript..",
+    // },
+    // {
+    //   id: 4584947,
+    //   imagem:
+    //     "https://i.pinimg.com/736x/1a/b4/ef/1ab4ef8a882dd49b5bb73788a196aaaf.jpg",
+    //   link: "https://enjels.github.io/lading-page-treino-exclusivo",
+    //   codigo: "https://github.com/enjels/lading-page-treino-exclusivo",
+    //   text: "Landing page, projeto criado apartir do curso da rocketseat, objetivo aplicar e consolidar conhecimento basicas estudads do html e css.",
+    // },
+    // {
+    //   id: 3484883,
+    //   imagem:
+    //     "https://i.pinimg.com/736x/98/14/47/98144718b992bf509f3864aace65fc30.jpg",
+    //   link: "https://enjels.github.io/formulario-Informacoes",
+    //   codigo: "https://github.com/enjels/formulario-Informacoes",
+    //   text: "Formulário projeto criado apartir do curso da rocketseat, objetivo aplicar e consolidar conhecimento em criação de formularios, Desenvovido com HTML, CSS e javaScript..",
+    // },
+    // {
+    //   id: 7342723,
+    //   imagem:
+    //     "https://i.pinimg.com/736x/52/46/6a/52466a0804d28db6eafba09fdc3db356.jpg",
+    //   link: "https://enjels.github.io/login-cat/",
+    //   codigo: "https://github.com/enjels/login-cat",
+    //   text: "Projeto login-cat criado apartir de uma referência do youtube CANAL: Markzuel, Desenvovido com HTML, CSS e javaScript..",
+    // },
 
-    {
-      id: 7636985,
-      imagem:
-        "https://i.pinimg.com/736x/5c/87/73/5c877305897cc5f45b1edfe6b866d961.jpg",
-      link: "https://enjels.github.io/responsivo-desktop-Mobile/",
-      codigo: "https://github.com/enjels/responsivo-desktop-Mobile",
-      text: "Responsivo desktop Mobile, aprendizado sobre responsividade.",
-    },
-    {
-      id: 3484883,
-      imagem:
-        "https://i.pinimg.com/736x/c3/cd/3c/c3cd3c6dcda70b8671fb43bce8484916.jpg",
-      link: "https://enjels.github.io/z-index-zoom/",
-      codigo: "https://github.com/enjels/z-index-zoom",
-      text: "z-index-zoom, parendizado sobre  z-index .",
-    },
-    {
-      id: 3484883,
-      imagem:
-        "https://i.pinimg.com/736x/40/dc/08/40dc08ab9b1978363efd27aded942052.jpg",
-      link: "https://enjels.github.io/ambientes-unico/",
-      codigo: "https://github.com/enjels/ambientes-unico",
-      text: "ambiente unico,um dos primeiros projetos de estudo para fixar conhecimentos básicos.",
-    },
+    // {
+    //   id: 7636985,
+    //   imagem:
+    //     "https://i.pinimg.com/736x/5c/87/73/5c877305897cc5f45b1edfe6b866d961.jpg",
+    //   link: "https://enjels.github.io/responsivo-desktop-Mobile/",
+    //   codigo: "https://github.com/enjels/responsivo-desktop-Mobile",
+    //   text: "Responsivo desktop Mobile, aprendizado sobre responsividade.",
+    // },
+    // {
+    //   id: 3484883,
+    //   imagem:
+    //     "https://i.pinimg.com/736x/c3/cd/3c/c3cd3c6dcda70b8671fb43bce8484916.jpg",
+    //   link: "https://enjels.github.io/z-index-zoom/",
+    //   codigo: "https://github.com/enjels/z-index-zoom",
+    //   text: "z-index-zoom, parendizado sobre  z-index .",
+    // },
+    // {
+    //   id: 3484883,
+    //   imagem:
+    //     "https://i.pinimg.com/736x/40/dc/08/40dc08ab9b1978363efd27aded942052.jpg",
+    //   link: "https://enjels.github.io/ambientes-unico/",
+    //   codigo: "https://github.com/enjels/ambientes-unico",
+    //   text: "ambiente unico,um dos primeiros projetos de estudo para fixar conhecimentos básicos.",
+    // },
     {
       id: 7978899,
       imagem:
