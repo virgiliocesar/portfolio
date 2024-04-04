@@ -31,7 +31,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/87/97/29/87972930fbe39f177ca7ee78c5d9ae9f.jpg",
       link: "https://multstep-form-react.vercel.app/",
       codigo: "https://github.com/enjels/multstep_form_react",
-      text: "multstep-form-react: Utilizado React, hooks json-server e Vite é um formulario de avaliação, feito em React com json server",
+      text: "Multstep-form-react: Utilizado React, hooks json-server e Vite é um formulario de avaliação, feito em React com json server",
     },
     {
       id: 7423685,
@@ -39,7 +39,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/f4/3c/ba/f43cba6b9d53721ae24bb6bcea82495c.jpg",
       link: "https://imc-calc-murex.vercel.app/",
       codigo: "https://github.com/enjels/multstep_form_react",
-      text: "Calculadora de IMC: React,React-router-dom, context API,hooks, Vite criada em react com json server",
+      text: "Calculadora de IMC: React, hooks e Vite criada em react com json server",
     },
     {
       id: 5228237,
@@ -48,7 +48,7 @@ const Projetos = () => {
       link: "https://mentorclass.vercel.app/",
       codigo:
         "https://github.com/enjels/projeto-de-conclusao-do-modulo-1-avaliacao",
-      text: "Mentor Class: React,React-router-dom, context API,hooks, Vite uma area de gestão de alunos e professores e turmas para ensino, possui registro de email alunos e professores, Desenvovido com HTML, CSS e javaScript.",
+      text: "Mentor Class: Utilizado HTML, CSS e javaScript. Uma area de gestão de alunos e professores e turmas para ensino, possui registro de email alunos e professores",
     },
     {
       id: 9996864,
@@ -56,7 +56,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/ed/3a/3a/ed3a3a925bd3c48b84736a9c14a2608c.jpg",
       link: "https://enjels.github.io/codai-2.0/",
       codigo: "https://github.com/enjels/codai-2.0",
-      text: "Projeto Codai -2.0 Nikel, é uma carteira digital,que registra a entra e saída do saldo da conta, detalhes descrição da transação e data do processo tudo isso sendo salvo no Histórico, possui cadastro e login, usa local storage para salvar os dados, Desenvovido com HTML, CSS e javaScript..",
+      text: "Carteira Digital Nike: Utilizado HTML, CSS e javaScript. Uma carteira digital, que registra a entra e saída do saldo da conta, detalhes descrição da transação e data do processo tudo isso sendo salvo no Histórico, possui cadastro e login, usa local storage para salvar os dados.",
     },
     {
       id: 6347545,
