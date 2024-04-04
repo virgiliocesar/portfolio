@@ -7,7 +7,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/a7/4d/9d/a74d9debe43cc492ab280b5a99a21e30.jpg",
       link: "https://blog-react-axios.vercel.app/",
       codigo: "https://github.com/enjels/BlogReactAxios",
-      text: "Blog feito em React, Vite, Axios alimentado por uma API externa, API: {JSON} Placeholder, usado CRUD não é possivel fazer modificações, mas cada ação realizada com sucesso usando a dev tools para ver status de cada metodo utilizado.",
+      text: "Blog feito em React,React-router-dom, context API,hooks, Vite e Axios, alimentado por uma API externa, API: {JSON} Placeholder, usado CRUD não é possivel fazer modificações, mas cada ação realizada com sucesso usando a dev tools para ver status de cada metodo utilizado.",
     },
     {
       id: 7758966,
@@ -15,7 +15,7 @@ const Projetos = () => {
         "https://i.pinimg.com/736x/b4/08/6f/b4086f75d9120567be99b0e1c1e7da26.jpg",
       link: "https://countdown-bice-six.vercel.app/",
       codigo: "https://github.com/enjels/countdown",
-      text: "countdown feito em React, contdor regrecivo para datas.",
+      text: "Countdown feito em React, Vite contdor regrecivo para datas.",
     },
     {
       id: 8886693,
