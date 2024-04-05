@@ -37,7 +37,7 @@ const Sobremim = () => {
               </div>
               <div className="social-box">
                 <a
-                  href="https://1drv.ms/w/s!AibGyGyszdWpgQ7-q1uCuq17PvdV?e=oOdMGG"
+                  href="https://1drv.ms/b/c/a9d5cdac6cc8c626/ETJ7P2pX5cdBqcB1zn9SuPgBmMFAPO1dm2-bk46W73pmeg?e=mN2SYW"
                   target="blank"
                 >
                   <img
