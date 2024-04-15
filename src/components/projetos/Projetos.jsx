@@ -62,8 +62,8 @@ const Projetos = () => {
       id: 6347545,
       imagem:
         "https://i.pinimg.com/736x/db/c1/31/dbc1318f799988e3d8839231b2e5e92f.jpg",
-      link: "https://enjels.github.io/Coffee-Shop/",
-      codigo: "https://github.com/enjels/Coffee-Shop",
+      link: "https://virgiliocesar.github.io/Coffee-Shop/",
+      codigo: "https://github.com/virgiliocesar/Coffee-Shop",
       text: "Coffe-shop: Utilizado HTML, CSS e javaScript, criado apartir de uma referência do youtube CANAL: Danilo paixão.",
     },
 
