@@ -54,8 +54,8 @@ const Projetos = () => {
       id: 9996864,
       imagem:
         "https://i.pinimg.com/736x/ed/3a/3a/ed3a3a925bd3c48b84736a9c14a2608c.jpg",
-      link: "https://enjels.github.io/codai-2.0/",
-      codigo: "https://github.com/enjels/codai-2.0",
+      link: "https://virgiliocesar.github.io/codai-2.0/",
+      codigo: "https://github.com/virgiliocesar/codai-2.0",
       text: "Carteira Digital Nike: Utilizado HTML, CSS e javaScript. Uma carteira digital, que registra a entra e saída do saldo da conta, detalhes descrição da transação e data do processo tudo isso sendo salvo no Histórico, possui cadastro e login, usa local storage para salvar os dados.",
     },
     {
