@@ -2,6 +2,14 @@ import "./Projetos.css";
 const Projetos = () => {
   const proj = [
     {
+      id: 5553232,
+      imagem:
+        "https://i.pinimg.com/736x/a7/4d/9d/a74d9debe43cc492ab280b5a99a21e30.jpg",
+      link: "https://dev-burguer-dusky.vercel.app/",
+      codigo: "https://github.com/virgiliocesar/Dev-Burguer",
+      text: "Menu de compra de lanches: Utilizado React, React-router-dom, hooks, Vite TypeScript, tailwind, alimentado por uma API externa, API: {JSON} Placeholder, usado CRUD não é possivel fazer modificações, mas cada ação realizada com sucesso usando a dev tools para ver status de cada metodo utilizado.",
+    },
+    {
       id: 5552373,
       imagem:
         "https://i.pinimg.com/736x/a7/4d/9d/a74d9debe43cc492ab280b5a99a21e30.jpg",

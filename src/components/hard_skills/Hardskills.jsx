@@ -27,6 +27,18 @@ const Hardskills = () => {
         skill: "React",
       },
       {
+        name: "Typescript",
+        imagem:
+          "	https://img.icons8.com/?size=65&id=uJM6fQYqDaZK&format=png",
+        skill: "React",
+      },
+      {
+        name: "Tailwind",
+        imagem:
+          "	https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-64.png",
+        skill: "React",
+      },
+      {
         name: "Git",
         imagem:
           "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-64.png",
