@@ -4,10 +4,10 @@ const Projetos = () => {
     {
       id: 5553232,
       imagem:
-        "https://i.pinimg.com/736x/a7/4d/9d/a74d9debe43cc492ab280b5a99a21e30.jpg",
+        "https://i.pinimg.com/736x/63/86/97/6386973baa8a0c844ceefbbc804268b5.jpg",
       link: "https://dev-burguer-dusky.vercel.app/",
       codigo: "https://github.com/virgiliocesar/Dev-Burguer",
-      text: "Menu de compra de lanches: Utilizado React, React-router-dom, hooks, Vite TypeScript, tailwind, alimentado por uma API externa, API: {JSON} Placeholder, usado CRUD não é possivel fazer modificações, mas cada ação realizada com sucesso usando a dev tools para ver status de cada metodo utilizado.",
+      text: "Site de Lanche: Utilizado React, hooks, Vite TypeScript, tailwind, dados mocados, adiciona items ao carrinho somante o item selecionado e calcula o valor total subtrai itens do carrinho envia no whatsapp quando estar no horario de funcionamento.",
     },
     {
       id: 5552373,
