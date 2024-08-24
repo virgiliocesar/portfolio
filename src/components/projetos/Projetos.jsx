@@ -1,4 +1,5 @@
 import "./Projetos.css";
+
 const Projetos = () => {
   const proj = [
     {
@@ -150,26 +151,34 @@ const Projetos = () => {
     },
   ];
   return (
-    <section id="projetos" className="section-pj">
+    <section id="projetos" className="section-pj max-width">
       <h1>Projetos</h1>
       <div id="container-pj">
-        <ul className="ul-pj">
-          {proj.map((proj, i) => (
-            <li key={i}>
-              <a href={proj.link} target="blank" rel="noreferrer">
-                <img
-                  className="img-pj"
-                  src={proj.imagem}
-                  alt={`projeto-${i}`}
-                />
-              </a>
-              <a className="a-pj" href={proj.codigo} target="blank">
-                Ver código
-              </a>
-              <p>{proj.text}</p>
-            </li>
-          ))}
-        </ul>
+        {proj.map((p) => (
+          <div key={p.id} className="project-item">
+            <section className="display ul-pj">
+              <div className="mobile">
+                <div className="trim a-pj">
+                  <iframe id="mobile" src={p.link} title={p.text}></iframe>
+                </div>
+              </div>
+              <div className="tablet">
+                <div className="trim">
+                  <iframe id="tablet" src={p.link} title={p.text}></iframe>
+                </div>
+              </div>
+            </section>
+            <a
+              className="a-pj"
+              href={p.codigo}
+              target="_blank"
+              rel="noreferrer"
+            >
+              Ver código
+            </a>
+            <p>{p.text}</p>
+          </div>
+        ))}
       </div>
     </section>
   );
