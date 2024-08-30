@@ -5,19 +5,19 @@ const Hardskills = () => {
       {
         name: "HTML 5",
         imagem:
-          "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png",
+          "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png",
         skill: "HTML5",
       },
       {
         name: "CSS 3",
         imagem:
-          "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-64.png",
+          "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png",
         skill: "CSS3",
       },
       {
         name: "JavaScript",
         imagem:
-          "	https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png",
+          "	https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png",
         skill: "JavaScript",
       },
       {
@@ -29,37 +29,49 @@ const Hardskills = () => {
       {
         name: "Typescript",
         imagem:
-          "	https://img.icons8.com/?size=65&id=uJM6fQYqDaZK&format=png",
+          "	https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png",
+        skill: "React",
+      },
+      {
+        name: "Node.JS",
+        imagem:
+          "	https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png",
+        skill: "React",
+      },
+      {
+        name: "MongoDB",
+        imagem:
+          "	https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png",
         skill: "React",
       },
       {
         name: "Tailwind",
         imagem:
-          "	https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-64.png",
+          "	https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png",
         skill: "React",
       },
       {
         name: "Git",
         imagem:
-          "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-64.png",
+          "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png",
         skill: "Git",
       },
       {
         name: "GitHub",
         imagem:
-          "https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-64.png",
+          "https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png",
         skill: "GitHub",
       },
       {
         name: "Figma",
         imagem:
-          "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-64.png",
+          "https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png",
         skill: "Figma",
       },
       {
         name: "Photoshop",
         imagem:
-          "	https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-64.png",
+          "	https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png",
         skill: "Photoshop",
       },
     ];

@@ -58,14 +58,19 @@ const Sobremim = () => {
           DESENVOLVEDOR <br /> FULLSTACK.
         </h2>
         <p>
-          Sou um dev. Front end apaixonado por transformar ideias em
-          realidade,combinando habilidades técnicas e criatividade.Estou sempre
-          em busca de novas oportunidades para aperfeiçoar minhas habilidade e
-          trabalhar em projetos desafiadores. Meu objetivo é aprender e crescer
-          na área. Curso
+          Ajudante geral em construção civil há mais de 5 anos. No tempo livre,
+          tenho trabalhado como freelancer nos últimos 13 meses, implementando
+          páginas em WordPress, HTML, CSS e JavaScript. Estou em transição de
+          carreira para o desenvolvimento de Fullstack. Minha especialidade é
+          React, Typescript, JavaScript (ES6), HTML e CSS. Atualmente, estou
+          estudando backend. Curso
           <b> Análise e Desenvolvimento de Sistema </b>
           pela Unifatecie. Principais tecnologias:
-          <b> Html, Css, JavaScript, React, git, figma e Photoshop</b>
+          <b>
+            {" "}
+            React, Typescript, JavaScript (ES6), Node.js, MongoDB, Tailwind,
+            Styled-components, HTML, CSS e git, figma e Photoshop.
+          </b>
         </p>
       </div>
     </section>
