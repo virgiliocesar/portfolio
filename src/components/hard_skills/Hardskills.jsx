@@ -51,6 +51,12 @@ const Hardskills = () => {
         skill: "React",
       },
       {
+        name: "styled-components",
+        imagem:
+          "	https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png",
+        skill: "React",
+      },
+      {
         name: "Git",
         imagem:
           "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png",
