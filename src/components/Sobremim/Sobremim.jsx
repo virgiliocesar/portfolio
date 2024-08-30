@@ -55,7 +55,7 @@ const Sobremim = () => {
           </div>
         </div>
         <h2>
-          DESENVOLVEDOR <br /> FRONT END.
+          DESENVOLVEDOR <br /> FULLSTACK.
         </h2>
         <p>
           Sou um dev. Front end apaixonado por transformar ideias em
