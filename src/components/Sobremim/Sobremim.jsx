@@ -25,7 +25,7 @@ const Sobremim = () => {
               </div>
               <div className="social-box">
                 <a
-                  href="https://www.linkedin.com/in/virg%C3%ADlio-c%C3%A9sar/"
+                  href="https://www.linkedin.com/in/virgilio-cesar/"
                   target="blank"
                 >
                   <img
@@ -37,7 +37,7 @@ const Sobremim = () => {
               </div>
               <div className="social-box">
                 <a
-                  href="https://1drv.ms/b/c/a9d5cdac6cc8c626/ETJ7P2pX5cdBqcB1zn9SuPgBmMFAPO1dm2-bk46W73pmeg?e=mN2SYW"
+                  href="https://1drv.ms/b/c/a9d5cdac6cc8c626/EfDyJQRh7HNLlTjImR6Ku6cBeDoqJ_eg6kNs-t8omr-1fw?e=S8ZlwT"
                   target="blank"
                 >
                   <img
