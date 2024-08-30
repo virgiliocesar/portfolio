@@ -7,22 +7,18 @@ const Softskills = () => {
       <div>
         <ul className="ul-soft-skills ">
           <div>
-            <li>autodidatismo</li>
-            <li>resiliência</li>
+            <li>Resoluqäo de Problemas</li>
+            <li>Curiosidade e Aprendizado Continuo</li>
           </div>
           <div>
-            <li>criatividade</li>
-            <li>conhecimento de design</li>
+            <li>Trabalho em Equipe</li>
+            <li>Comunicação</li>
           </div>
 
           <div>
-            <li>boa comunicação</li>
-            <li>flexibilidade</li>
+            <li>interesse</li>
           </div>
-          <div>
-            <li>trabalhar sob pressão</li>
-            <li>pensamento crítico</li>
-          </div>
+          
         </ul>
       </div>
     </section>
