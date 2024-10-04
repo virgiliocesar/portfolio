@@ -45,6 +45,11 @@ const Hardskills = () => {
         skill: "React",
       },
       {
+        name: "Docker",
+        imagem: "	https://cdn-icons-png.flaticon.com/128/919/919853.png",
+        skill: "Docker",
+      },
+      {
         name: "Tailwind",
         imagem:
           "	https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png",
