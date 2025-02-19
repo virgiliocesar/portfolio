@@ -1,5 +1,6 @@
-import "./Sobremim.css";
-const Sobremim = () => {
+import "./About..css";
+
+const About = () => {
   return (
     <section id="sobre" className="section-sobremim">
       <div className="sobremim">
@@ -74,7 +75,7 @@ const Sobremim = () => {
         </p>
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default Sobremim;
+export default About

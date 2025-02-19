@@ -1,10 +1,10 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import './index.css'
-import Container from './components/container_Global/Container';
+import { createRoot } from 'react-dom/client';
+import './index.css';
+import { RouterProvider } from 'react-router';
+import router from './routers/router';
 
-ReactDOM.createRoot(document.getElementById("root")).render(
-  <React.StrictMode>
-    <Container/>
-  </React.StrictMode>
+// Cria a raiz e renderiza o aplicativo
+const root = createRoot(document.getElementById("root"));
+root.render(
+  <RouterProvider router={router} />
 );
