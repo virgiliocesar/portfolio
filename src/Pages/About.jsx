@@ -1,18 +1,11 @@
 import "./About..css";
+import face from "../assets/image/face.png";
 
 const About = () => {
   return (
-    <section id="sobre" className="section-sobremim">
-      <div className="sobremim">
-        <div className="dados-perfil">
-          <div>
-            <img
-              className="img-sobremim"
-              src="https://i.pinimg.com/474x/d5/52/0e/d5520ef4a2f939fabeaff233b18fe007.jpg"
-              alt="Foto de perfil"
-            />
-          </div>
-          <div>
+    <section id="sobre" className="section__container flex gap-20 aline-items-center" >
+
+      {/* <div>
             <h1>Virgílio César</h1>
             <div className="Redes-sociais">
               <div className="social-box">
@@ -53,12 +46,14 @@ const About = () => {
             <p>
               <strong>E-mail:</strong> virgilio_cesar.dev@outlook.com
             </p>
-          </div>
-        </div>
-        <h2>
-          DESENVOLVEDOR <br /> FULLSTACK.
-        </h2>
-        <p>
+          </div> */}
+      <div>
+      <h1 className="text-2xl font-semibold text-start">Virgílio César</h1>
+        <h1 className="text-3xl font-semibold text-start mb-5">DESENVOLVEDOR
+          FULLSTACK.</h1>
+        
+      <div className="max-w-[700px]">
+        <p className="text-justify">
           Ajudante geral em construção civil há mais de 5 anos. No tempo livre,
           tenho trabalhado como freelancer nos últimos 13 meses, implementando
           páginas em WordPress, HTML, CSS e JavaScript. Estou em transição de
@@ -74,7 +69,19 @@ const About = () => {
           </b>
         </p>
       </div>
+      </div>
+
+      <div >
+        <div className="max-w-[500px]">
+          <img
+            className=""
+            src={face}
+            alt="Foto de perfil"
+          />
+        </div>
+      </div>
     </section>
+
   )
 }
 

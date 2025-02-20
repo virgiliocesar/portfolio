@@ -1,7 +1,93 @@
-#main-container{
-    width:80%;
-    margin: 0 auto;
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;800&family=Poppins:wght@400;500;600;700&display=swap");
+
+:root {
+  --primary-color: #ed3849;
+  --primary-color-dark: #d23141;
+  --primary-color-light: #f4e5ec;
+  --text-dark: #0f172a;
+  --text-light: #64748b;
+  --extra-light: #f8fafc;
+  --white: #ffffff;
+  --max-width-1760: 70%;
+  --max-width-1200: 1200px;
+  --max-width-900: 900px;
+  --header-font: "Playfair Display", serif;
 }
-#main-container .sk{
-    display: flex;
+
+* {
+  /* margin: 0; */
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  font-size: 1.5rem;
+  /* border : 1px solid #64748b; */
+  max-width: var(--max-width-1760);
+  margin: auto;
+  padding: 2rem 0rem;
+  display: flex;
+  justify-content: start;
+  gap: 2rem;
+}
+
+body {
+  background-color: #2D2C2C;
+  color: white;
+}
+
+.section__container {
+  
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  max-width: var(--max-width-1760);
+  margin: 0% auto;
+  padding: 5rem 1rem;
+}
+
+.section__header {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  font-weight: 800;
+  font-family: var(--header-font);
+  color: var(--text-dark);
+  text-align: center;
+}
+
+.section__subheader {
+  max-width: 500px;
+  margin: auto;
+  color: var(--text-light);
+  text-align: center;
+}
+
+.btn {
+  padding: 0.75rem 1.5rem;
+  outline: none;
+  border: none;
+  font-size: 1rem;
+  color: var(--white);
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: var(--primary-color-dark);
+}
+
+
+/*! RESPONSIVO */
+
+@media screen and (max-width: 900px) {
+    .section__container {
+      display: flex;
+      flex-direction: column;
+    }
 }
