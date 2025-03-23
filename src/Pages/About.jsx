@@ -1,7 +1,7 @@
 import face from "../assets/image/face.png";
-import githubIcon from "../assets/image/contato/github.png";
-import linkedinIcon from "../assets/image/contato/linkedin.png";
-import downloadIcon from "../assets/image/contato/download.png";
+import githubIcon from "../assets/svg/contato/github.svg";
+import linkedinIcon from "../assets/svg/contato/linkedin.svg";
+import downloadIcon from "../assets/svg/contato/download.png";
 
 const About = () => {
   return (
