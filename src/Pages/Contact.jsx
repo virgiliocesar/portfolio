@@ -1,6 +1,6 @@
-import github from "../assets/image/contato/github.svg";
-import linkedin from "../assets/image/contato/linkedin.png";
-import email from "../assets/image/contato/email.png";
+import githubIcon from "../assets/svg/contato/github.svg";
+import linkedinIcon from "../assets/svg/contato/linkedin.svg";
+import emailIcon from "../assets/svg/contato/email.svg";
 
 const Contact = () => {
   return (
@@ -20,7 +20,7 @@ const Contact = () => {
               {/* GitHub */}
               <div className="flex items-center space-x-4">
                 <div className="p-3 bg-blue-50 rounded-lg">
-                  <img src={github} alt="GitHub" className="w-6 h-6" />
+                  <img src={githubIcon} alt="GitHub" className="w-6 h-6" />
                 </div>
                 <a
                   href="https://github.com/virgiliocesar"
@@ -35,7 +35,7 @@ const Contact = () => {
               {/* LinkedIn */}
               <div className="flex items-center space-x-4">
                 <div className="p-3 bg-blue-50 rounded-lg">
-                  <img src={linkedin} alt="LinkedIn" className="w-6 h-6" />
+                  <img src={linkedinIcon} alt="LinkedIn" className="w-6 h-6" />
                 </div>
                 <a
                   href="https://www.linkedin.com/in/virgilio-cesar/"
@@ -50,7 +50,7 @@ const Contact = () => {
               {/* Email */}
               <div className="flex items-center space-x-4">
                 <div className="p-3 bg-blue-50 rounded-lg">
-                  <img src={email} alt="Email" className="w-6 h-6" />
+                  <img src={emailIcon} alt="Email" className="w-6 h-6" />
                 </div>
                 <a
                   href="mailto:virgilio_cesar.dev@outlook.com"
