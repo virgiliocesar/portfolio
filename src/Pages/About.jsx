@@ -1,5 +1,4 @@
 import face from "../assets/image/face.png";
-
 import githubIcon from "../assets/svg/contato/github.svg";
 import linkedinIcon from "../assets/svg/contato/linkedin.svg";
 import downloadIcon from "../assets/svg/contato/download.svg";
