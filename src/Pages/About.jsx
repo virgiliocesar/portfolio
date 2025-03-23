@@ -1,5 +1,5 @@
 import face from "../assets/image/face.png";
-import githubIcon from "../assets/image/contato/githuub.png";
+import githubIcon from "../assets/image/contato/github.svg";
 import linkedinIcon from "../assets/image/contato/linkedin.png";
 import downloadIcon from "../assets/image/contato/download.png";
 

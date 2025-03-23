@@ -1,4 +1,4 @@
-import github from "../assets/image/contato/github.png";
+import github from "../assets/image/contato/github.svg";
 import linkedin from "../assets/image/contato/linkedin.png";
 import email from "../assets/image/contato/email.png";
 
