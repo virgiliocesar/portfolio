@@ -4,7 +4,7 @@ import email from "../assets/image/contato/email.png";
 
 const Contact = () => {
   return (
-    <section className="section__container py-16 bg-gradient-to-b from-gray-50 to-white mt-14">
+    <section className="section__container py-16 bg-gradient-to-b from-gray-50 to-white mt-14 mb-20.5">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-bold text-center mb-12 text-gray-800">
           Contato
