@@ -4,14 +4,16 @@
       "imagem": "https://i.pinimg.com/736x/7f/18/3d/7f183d9f4df09d53dce1ec42ee00fa54.jpg",
       "link": "https://catalogo-de-capivara.vercel.app/",
       "codigo": "https://github.com/virgiliocesar/Catalogo-de-capivara",
-      "text": "Catalogo de capivara - Fullstack: Utilizado, React, hooks, Axios, Vite TypeScript, css, Docker, API, Node.js,Express, mongo DB, ODM mongoose, API: propria, usado CRUD tanto no frontend quanto no backend."
+      "text": "Catalogo de capivara - Fullstack: Utilizado, React, hooks, Axios, Vite TypeScript, css, Docker, API, Node.js,Express, mongo DB, ODM mongoose, API: propria, usado CRUD tanto no frontend quanto no backend.",
+      "video": "https://www.youtube.com/watch?v=1K0OjYKqEi4"
     },
     {
       "id": 5553232,
       "imagem": "https://i.pinimg.com/736x/63/86/97/6386973baa8a0c844ceefbbc804268b5.jpg",
       "link": "https://dev-burguer-dusky.vercel.app/",
       "codigo": "https://github.com/virgiliocesar/Dev-Burguer",
-      "text": "Site de Lanche: Utilizado React, hooks, Vite TypeScript, tailwind, dados mocados, adiciona items ao carrinho somante o item selecionado e calcula o valor total subtrai itens do carrinho envia no whatsapp quando estar no horario de funcionamento."
+      "text": "Site de Lanche: Utilizado React, hooks, Vite TypeScript, tailwind, dados mocados, adiciona items ao carrinho somante o item selecionado e calcula o valor total subtrai itens do carrinho envia no whatsapp quando estar no horario de funcionamento.",
+      "video": "https://www.youtube.com/watch?v=1K0OjYKqEi4"
     },
     {
       "id": 5552373,

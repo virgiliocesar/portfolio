@@ -5,6 +5,7 @@ import Projects from "../Pages/Projects";
 import Skills from "../Pages/Skills";
 import About from "../Pages/About";
 import Contact from "../Pages/Contact";
+import SinglePageProject from "../Pages/SimglePage/SinglePageProject";
 
 
  const router = createBrowserRouter([
@@ -25,10 +26,10 @@ import Contact from "../Pages/Contact";
                 path: "/projects",
                 element: <Projects />,
             },
-            // {
-            //     path: "/projeto/:id",
-            //     element: <ProjectsDetail />,
-            // },
+            {
+                path: "/project/:id",
+                element: <SinglePageProject/>
+            },
             
             {
                 path: "/contact",
