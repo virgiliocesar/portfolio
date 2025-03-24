@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Link } from "react-router";
+import { Link } from "react-router"; // Corrigi a importação do Link
 import projects from "../data/projects.json";
 
 export const Projects = () => {
@@ -27,6 +27,28 @@ export const Projects = () => {
     });
   };
 
+  // Cores para cada tecnologia
+  const tecnologiaCores = {
+    React: "bg-blue-500",
+    "Node.js": "bg-green-500",
+    Express: "bg-yellow-500",
+    MongoDB: "bg-purple-500",
+    Docker: "bg-indigo-500",
+    Axios: "bg-red-500",
+    Tailwind: "bg-teal-500",
+    TypeScript: "bg-blue-700",
+    Vite: "bg-pink-500",
+    JWT: "bg-red-500",
+    HTML: "bg-orange-500",
+    CSS: "bg-blue-500",
+    javaScript: "bg-yellow-500",
+    "React Hooks": "bg-pink-500",
+    "React Native": "bg-pink-500",
+    "React Router": "bg-pink-500",
+    "React Query": "bg-pink-500",
+    "Styled Components": "bg-pink-500",
+  };
+
   return (
     <section className="section__container py-16 bg-gradient-to-b from-gray-50 to-white mt-14">
       <div className="container mx-auto px-4">
@@ -50,6 +72,18 @@ export const Projects = () => {
                 <h2 className="text-2xl font-bold text-gray-800 mb-3">
                   {project.title}
                 </h2>
+
+                {/* Tags de tecnologias */}
+                <div className="flex flex-wrap gap-2 mb-4">
+                  {project.tecnologias.map((tech, index) => (
+                    <span
+                      key={index}
+                      className={`${tecnologiaCores[tech] || "bg-gray-500"} text-white px-3 py-1 rounded-full text-sm`}
+                    >
+                      {tech}
+                    </span>
+                  ))}
+                </div>
 
                 <div className="flex justify-between gap-4">
                   <Link

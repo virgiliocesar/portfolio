@@ -54,8 +54,6 @@ const SinglePageProject = () => {
     "React Router": "bg-pink-500",
     "React Query": "bg-pink-500",
     "Styled Components": "bg-pink-500",
-    
-
   };
 
   return (

@@ -4,6 +4,41 @@ import linkedinIcon from "../assets/svg/contato/linkedin.svg";
 import downloadIcon from "../assets/svg/contato/download.svg";
 
 const About = () => {
+  // Lista de tecnologias
+  const tecnologias = [
+    "React",
+    "TypeScript",
+    "JavaScript (ES6)",
+    "Node.js",
+    "MongoDB",
+    "Express",
+    "JWT",
+    "Tailwind",
+    "Styled-components",
+    "HTML",
+    "CSS",
+    "Git",
+    "Figma",
+
+  ];
+
+  // Cores para cada tecnologia
+  const tecnologiaCores = {
+    React: "bg-blue-500",
+    TypeScript: "bg-indigo-500",
+    "JavaScript (ES6)": "bg-yellow-500",
+    "Node.js": "bg-green-500",
+    MongoDB: "bg-purple-500",
+    Express: "bg-pink-500",
+    JWT: "bg-red-500",
+    Tailwind: "bg-teal-500",
+    "Styled-components": "bg-pink-500",
+    HTML: "bg-orange-500",
+    CSS: "bg-blue-400",
+    Git: "bg-red-500",
+    Figma: "bg-purple-400",
+  };
+
   return (
     <section id="sobre" className="section__container py-20 bg-gradient-to-b from-gray-50 to-white mt-14">
       <div className="container mx-auto px-4">
@@ -23,19 +58,21 @@ const About = () => {
             </div>
 
             <p className="text-gray-600 text-justify text-lg leading-relaxed">
-              Ajudante geral em construção civil há mais de 5 anos. No tempo livre,
-              tenho trabalhado como freelancer nos últimos 13 meses, implementando
-              páginas em WordPress, HTML, CSS e JavaScript. Estou em transição de
-              carreira para o desenvolvimento Fullstack. Minha especialidade é
-              React, Typescript, JavaScript (ES6), HTML e CSS. Atualmente, estou
-              estudando backend. Curso <b>Análise e Desenvolvimento de Sistemas</b>
-              pela Unifatecie. Principais tecnologias:
-              <b>
-                {" "}
-                React, Typescript, JavaScript (ES6), Node.js, MongoDB, Tailwind,
-                Styled-components, HTML, CSS, Git, Figma e Photoshop.
-              </b>
+              Com mais de 5 anos como ajudante geral na construção civil, migrei para o desenvolvimento de software. Nos últimos 13 meses, atuei como freelancer, criando páginas com WordPress, HTML, CSS e JavaScript. Atualmente, em transição para Fullstack, minha especialidade é React, TypeScript, JavaScript (ES6), HTML e CSS, com foco em estudar backend. Cursando <b>Análise e Desenvolvimento de Sistemas </b>
+              pela Unifatecie.<br />Principais tecnologias:
             </p>
+            
+            {/* Tags de tecnologias */}
+            <div className="flex flex-wrap gap-2">
+              {tecnologias.map((tech, index) => (
+                <span
+                  key={index}
+                  className={`${tecnologiaCores[tech] || "bg-gray-500"} text-white px-3 py-1 rounded-full text-sm`}
+                >
+                  {tech}
+                </span>
+              ))}
+            </div>
 
             {/* Redes Sociais */}
             <div className="flex space-x-6">
@@ -72,10 +109,10 @@ const About = () => {
             <p className="text-gray-600 text-lg">
               <strong>E-mail:</strong>{" "}
               <a
-                href="mailto:virgilio_cesar.dev@outlook.com"
+                href="mailto:virgilio_cesar_dev@outlook.com"
                 className="text-blue-600 hover:underline"
               >
-                virgilio_cesar.dev@outlook.com
+                virgilio_cesar_dev@outlook.com
               </a>
             </p>
           </div>
