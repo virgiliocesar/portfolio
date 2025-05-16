@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { NavLink } from "react-router"; // Substituí Link por NavLink
+import { NavLink } from "react-router";
+import logo_v from "../public/logo-v.png";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false); // Estado para controlar a visibilidade do menu
@@ -25,7 +26,11 @@ const Navbar = () => {
               }`
             }
           >
-            Meu Portfólio
+            <div className="flex items-center space-x-2">
+
+              <img src={logo_v} alt="" className="w-12 h-12 border- border-white rounded-full mr-0.5" />
+               irgílio
+            </div>
           </NavLink>
         </div>
 

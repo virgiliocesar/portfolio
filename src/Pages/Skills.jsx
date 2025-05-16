@@ -16,15 +16,16 @@ import github from "../assets/svg/util/github.svg";
 import jwtToken from "../assets/svg/backend/jwtToken.svg";
 
 const Skills = () => {
-  // Dados das habilidades comportamentais
+  //^^ Dados das habilidades comportamentais
   const skills = [
-    { id: 1, name: "Comunicação", imagem: "caminho/para/imagem" },
-    { id: 2, name: "Trabalho em Equipe", imagem: "caminho/para/imagem" },
-    { id: 3, name: "Resolução de Problemas", imagem: "caminho/para/imagem" },
-    { id: 4, name: "Adaptabilidade", imagem: "caminho/para/imagem" },
+    { id: 1, name: "Resolução de Problemas", imagem: "caminho/para/imagem" },
+    { id: 2, name: "Curiosidade e Aprendizado Contínuo", imagem: "caminho/para/imagem" },
+    { id: 3, name: "Trabalho em Equipe", imagem: "caminho/para/imagem" },
+    { id: 4, name: "Comunicação", imagem: "caminho/para/imagem" },
+    { id: 4, name: "Flexibiilidade", imagem: "caminho/para/imagem" },
   ];
 
-  // Dados das habilidades técnicas
+  //^^ Dados das habilidades técnicas
   const frontendSkills = [
     { id: 1, name: "HTML5", imagem: html5 },
     { id: 2, name: "CSS3", imagem: css3 },

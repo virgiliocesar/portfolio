@@ -9,6 +9,8 @@ const About = () => {
     "React",
     "TypeScript",
     "JavaScript (ES6)",
+    "Redux",
+    "Axios",
     "Node.js",
     "MongoDB",
     "Express",
@@ -27,8 +29,8 @@ const About = () => {
     React: "bg-blue-500",
     TypeScript: "bg-indigo-500",
     "JavaScript (ES6)": "bg-yellow-500",
-    "Node.js": "bg-green-500",
-    MongoDB: "bg-purple-500",
+    "Node.js": "bg-green-600",
+    MongoDB: "bg-green-500",
     Express: "bg-pink-500",
     JWT: "bg-red-500",
     Tailwind: "bg-teal-500",
@@ -37,6 +39,8 @@ const About = () => {
     CSS: "bg-blue-400",
     Git: "bg-red-500",
     Figma: "bg-purple-400",
+    Redux: "bg-purple-500",
+    Axios: "bg-purple-600",
   };
 
   return (
@@ -95,7 +99,7 @@ const About = () => {
                 <span className="text-lg">LinkedIn</span>
               </a>
               <a
-                href="https://1drv.ms/b/c/a9d5cdac6cc8c626/EfDyJQRh7HNLlTjImR6Ku6cBeDoqJ_eg6kNs-t8omr-1fw?e=S8ZlwT"
+                href="https://1drv.ms/b/c/a9d5cdac6cc8c626/EUsAzGMtdI1ChVeID4E2n0EBuftXuwUadD12YlfHPJrYQQ?e=KYgfGD"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-gray-700 hover:text-blue-600 transition-colors duration-300"

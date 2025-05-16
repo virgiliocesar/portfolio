@@ -34,7 +34,7 @@ const SinglePageProject = () => {
     }
   };
 
-  // Cores para cada tecnologia
+  //^^ Cores para cada tecnologia
   const tecnologiaCores = {
     React: "bg-blue-500",
     "Node.js": "bg-green-500",
@@ -80,7 +80,7 @@ const SinglePageProject = () => {
                 ></iframe>
               </div>
             ) : (
-              // Fallback para imagem se não houver vídeo
+              //^^ Fallback para imagem se não houver vídeo
               <img
                 className="w-full h-96 object-cover rounded-lg shadow-xl"
                 src={project.imagem}
@@ -106,7 +106,6 @@ const SinglePageProject = () => {
           </div>
 
           <div>
-            
 
             <h1 className="text-4xl font-bold text-center mb-4 text-gray-800">
               {project.title}

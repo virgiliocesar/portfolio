@@ -1,16 +1,26 @@
  [
+  {
+    "id":1,
+    "title":"e-comerce fashion.",
+    "imagem": "https://i.pinimg.com/736x/70/13/11/7013111872150d481238c0b7f418a383.jpg",
+    "link": "https://ecomerce-fashion.vercel.app/",
+    "codigo": "https://github.com/virgiliocesar/ecomerce-fashion",
+    "text": "Plataforma completa de e-commerce com autenticação de usuários via JWT e CRUD de produtos. • Interface responsiva em Tailwind CSS com ícones RemixIcon. • Processamento de pagamentos seguro via Stripe. • Gerenciamento de imagens com Cloudinary. • Gráficos de vendas em tempo real com Chart.js/react-chartjs-2. • API REST construída em Node.js/Express, modelagem de dados com Mongoose e middlewares (CORS, body-parser, cookie-parser). ",
+    "video": "",
+    "tecnologias": ["React", "Router", "Vite", "Tailwind", "RemixIcon", "Node.js", "Express", "MongoDB", "Cloudinary", "Stripe", "JWT", "Axios","Docker"]
+  },
     {
-      "id":1,
+      "id":2,
       "title":"Catalogo de Capivara",
       "imagem": "https://i.pinimg.com/736x/7f/18/3d/7f183d9f4df09d53dce1ec42ee00fa54.jpg",
       "link": "https://catalogo-de-capivara.vercel.app/",
       "codigo": "https://github.com/virgiliocesar/Catalogo-de-capivara",
       "text": "Catalogo de capivara - Fullstack: Utilizado, React, hooks, Axios, Vite TypeScript, css, Docker, API, Node.js,Express, mongo DB, ODM mongoose, API: propria, usado CRUD tanto no frontend quanto no backend.",
       "video": "",
-      "tecnologias": ["React", "Node.js", "Express", "MongoDB", "Docker", "Axios", "Tailwind"]
+      "tecnologias": ["React", "Node.js","Vite", "Express", "MongoDB", "Docker", "Axios", "Tailwind"]
     },
     {
-      "id": 2,
+      "id":3,
       "title": "Dev Burguer",
       "imagem": "https://i.pinimg.com/736x/63/86/97/6386973baa8a0c844ceefbbc804268b5.jpg",
       "link": "https://dev-burguer-dusky.vercel.app/",
@@ -20,7 +30,7 @@
       "tecnologias": ["React", "TypeScript", "Vite", "Tailwind", "Axios"]
     },
     {
-      "id": 3,
+      "id":4,
       "title": "Blog Post",
       "imagem": "https://i.pinimg.com/736x/a7/4d/9d/a74d9debe43cc492ab280b5a99a21e30.jpg",
       "link": "https://blog-react-axios.vercel.app/",
@@ -30,7 +40,7 @@
       "tecnologias": ["React", "Axios", "Vite"]
     },
     {
-      "id": 4,
+      "id":5,
       "title": "Contador ",
       "imagem": "https://i.pinimg.com/736x/b4/08/6f/b4086f75d9120567be99b0e1c1e7da26.jpg",
       "link": "https://countdown-bice-six.vercel.app/",
@@ -40,7 +50,7 @@
       "tecnologias": ["React", "Vite"]
     },
     {
-      "id": 5,
+      "id":6,
       "title": "Quiz",
       "imagem": "https://i.pinimg.com/736x/a0/c5/08/a0c508b90be731186214c878b9267eeb.jpg",
       "link": "https://quiz-enjels.vercel.app/",
@@ -50,7 +60,7 @@
       "tecnologias": ["React", "Vite"]
     },
     {
-      "id": 6,
+      "id":7,
       "title": "Formulario de avaliação",
       "imagem": "https://i.pinimg.com/736x/87/97/29/87972930fbe39f177ca7ee78c5d9ae9f.jpg",
       "link": "https://multstep-form-react.vercel.app/",
@@ -60,7 +70,7 @@
       "tecnologias": ["React", "Vite"]
     },
     {
-      "id": 7,
+      "id":8,
       "title": "Calcularoda de IMC",
       "imagem": "https://i.pinimg.com/736x/f4/3c/ba/f43cba6b9d53721ae24bb6bcea82495c.jpg",
       "link": "https://imc-calc-murex.vercel.app/",
@@ -70,7 +80,7 @@
       "tecnologias": ["React", "Vite"]
     },
     {
-      "id": 8,
+      "id":9,
       "title": "Mentor Class",
       "imagem": "https://i.pinimg.com/736x/72/0b/d6/720bd6b3460dd69e2650f1ccaaffb91f.jpg",
       "link": "https://mentorclass.vercel.app/",
@@ -80,7 +90,7 @@
       "tecnologias": ["HTML", "CSS", "javaScript"]
     },
     {
-      "id": 9,
+      "id":10,
       "title": "Carteira Digital",
       "imagem": "https://i.pinimg.com/736x/ed/3a/3a/ed3a3a925bd3c48b84736a9c14a2608c.jpg",
       "link": "https://virgiliocesar.github.io/codai-2.0/",
@@ -90,7 +100,7 @@
       "tecnologias": ["HTML", "CSS", "javaScript"]
     },
     {
-      "id": 10,
+      "id":11,
       "title": "Loja de Café Simples",
       "imagem": "https://i.pinimg.com/736x/db/c1/31/dbc1318f799988e3d8839231b2e5e92f.jpg",
       "link": "https://virgiliocesar.github.io/Coffee-Shop/",
@@ -100,7 +110,7 @@
       "tecnologias": ["HTML", "CSS", "javaScript"]
     },
     {
-      "id": 11,
+      "id":12,
       "title": "Doritos",
       "imagem": "https://i.pinimg.com/736x/28/0b/64/280b643cfc46a8501497cb4d6c4b733e.jpg",
       "link": "https://virgiliocesar.github.io/Doritos/",
@@ -110,7 +120,7 @@
       "tecnologias": ["HTML", "CSS", "javaScript"]
     },
     {
-      "id": 12,
+      "id":13,
       "title": "Relógio Digital",
       "imagem": "https://i.pinimg.com/736x/95/4c/ee/954cee887f7a77d58e0c5bb62e5fa7d4.jpg",
       "link": "https://virgiliocesar.github.io/relogio-digital/",
@@ -120,7 +130,7 @@
       "tecnologias": ["HTML", "CSS", "javaScript"]
     },
     {
-      "id": 13,
+      "id":14,
       "title": "Lading Page Treino",
       "imagem": "https://i.pinimg.com/736x/1a/b4/ef/1ab4ef8a882dd49b5bb73788a196aaaf.jpg",
       "link": "https://virgiliocesar.github.io/lading-page-treino-exclusivo",
@@ -130,7 +140,7 @@
       "tecnologias": ["HTML", "CSS"]
     },
     {
-      "id": 15,
+      "id":15,
       "title": "Formulário",
       "imagem": "https://i.pinimg.com/736x/98/14/47/98144718b992bf509f3864aace65fc30.jpg",
       "link": "https://virgiliocesar.github.io/formulario-Informacoes",
@@ -140,7 +150,7 @@
       "tecnologias": ["HTML", "CSS", "javaScript"]
     },
     {
-      "id": 16,
+      "id":16,
       "title": "Login Cat",
       "imagem": "https://i.pinimg.com/736x/52/46/6a/52466a0804d28db6eafba09fdc3db356.jpg",
       "link": "https://virgiliocesar.github.io/login-cat/",
@@ -151,7 +161,7 @@
     },
 
     {
-      "id": 17,
+      "id":17,
       "title": "Responsivo Desktop e Mobile",
       "imagem": "https://i.pinimg.com/736x/5c/87/73/5c877305897cc5f45b1edfe6b866d961.jpg",
       "link": "https://virgiliocesar.github.io/responsivo-desktop-Mobile/",
@@ -161,7 +171,7 @@
       "tecnologias": ["HTML", "CSS"]
     },
     {
-      "id": 18,
+      "id":18,
       "title": "Zoom in",
       "imagem": "https://i.pinimg.com/736x/c3/cd/3c/c3cd3c6dcda70b8671fb43bce8484916.jpg",
       "link": "https://virgiliocesar.github.io/z-index-zoom/",
@@ -171,7 +181,7 @@
       "tecnologias": ["HTML", "CSS"]
     },
     {
-      "id": 19,
+      "id":19,
       "title": "Simples Página",
       "imagem": "https://i.pinimg.com/736x/40/dc/08/40dc08ab9b1978363efd27aded942052.jpg",
       "link": "https://virgiliocesar.github.io/ambientes-unico/",
